@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/rotas/static/css/main.64f57f64.chunk.css",
+    "main.js": "/rotas/static/js/main.3398431a.chunk.js",
+    "main.js.map": "/rotas/static/js/main.3398431a.chunk.js.map",
+    "runtime-main.js": "/rotas/static/js/runtime-main.17693c1f.js",
+    "runtime-main.js.map": "/rotas/static/js/runtime-main.17693c1f.js.map",
+    "static/js/2.35fc8239.chunk.js": "/rotas/static/js/2.35fc8239.chunk.js",
+    "static/js/2.35fc8239.chunk.js.map": "/rotas/static/js/2.35fc8239.chunk.js.map",
+    "index.html": "/rotas/index.html",
+    "static/css/main.64f57f64.chunk.css.map": "/rotas/static/css/main.64f57f64.chunk.css.map",
+    "static/js/2.35fc8239.chunk.js.LICENSE.txt": "/rotas/static/js/2.35fc8239.chunk.js.LICENSE.txt",
+    "static/media/afazenda.8eba87e1.webp": "/rotas/static/media/afazenda.8eba87e1.webp",
+    "static/media/alerta.f1653cf6.png": "/rotas/static/media/alerta.f1653cf6.png",
+    "static/media/balanco.c44a2652.webp": "/rotas/static/media/balanco.c44a2652.webp",
+    "static/media/band.fa8f0cb8.png": "/rotas/static/media/band.fa8f0cb8.png",
+    "static/media/brasilia.2f356fb2.jpg": "/rotas/static/media/brasilia.2f356fb2.jpg",
+    "static/media/capital.71c15f40.jpg": "/rotas/static/media/capital.71c15f40.jpg",
+    "static/media/culinaria.89761079.jpg": "/rotas/static/media/culinaria.89761079.jpg",
+    "static/media/culinaria2.58e22626.jpg": "/rotas/static/media/culinaria2.58e22626.jpg",
+    "static/media/cultura.c6b61e13.png": "/rotas/static/media/cultura.c6b61e13.png",
+    "static/media/educacao.7ab7d85a.png": "/rotas/static/media/educacao.7ab7d85a.png",
+    "static/media/esportes.0414c743.jpg": "/rotas/static/media/esportes.0414c743.jpg",
+    "static/media/falabrasil.d292243a.jpg": "/rotas/static/media/falabrasil.d292243a.jpg",
+    "static/media/globo.ccc423d7.png": "/rotas/static/media/globo.ccc423d7.png",
+    "static/media/interior.9931a2e6.jpg": "/rotas/static/media/interior.9931a2e6.jpg",
+    "static/media/policia.dab08309.jpeg": "/rotas/static/media/policia.dab08309.jpeg",
+    "static/media/politica.261475ba.jpg": "/rotas/static/media/politica.261475ba.jpg",
+    "static/media/raulgil.51dbb4d7.png": "/rotas/static/media/raulgil.51dbb4d7.png",
+    "static/media/record.494ef3bf.jpg": "/rotas/static/media/record.494ef3bf.jpg",
+    "static/media/sbt.e889bdee.png": "/rotas/static/media/sbt.e889bdee.png",
+    "static/media/tvindex.f5dfd4ff.jpg": "/rotas/static/media/tvindex.f5dfd4ff.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.17693c1f.js",
+    "static/js/2.35fc8239.chunk.js",
+    "static/css/main.64f57f64.chunk.css",
+    "static/js/main.3398431a.chunk.js"
+  ]
+}
